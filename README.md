@@ -4,7 +4,7 @@ There is no solution to the problem here.
 
 The project contains subprojects. There is no beautiful structure. Code dump in general lol. 
 
-The KMGLift project is a child project of this project, the development of the idea of this.
+The KMGLift project is a child project of this project, the development of the idea of this(https://github.com/Alar-q/KMGLift).
 
 The DNN folder is the main interest of this repository.
 
